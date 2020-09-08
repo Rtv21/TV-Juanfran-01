@@ -1,0 +1,22 @@
+#EXTM3U
+
+
+
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-Dab-At78FW0/X1fnu1o_tWI/AAAAAAAAAkA/1ut7pTm985UpYL5CwGfSwYWVStWcbLTEwCNcBGAsYHQ/s0/DE%2BPELICULA.png", DE PELICULA
+https://ul.cdn946.net:8443/hls/4elfkzo3pugm9.m3u8?s=Pop4QRy_HeA49jcA_8WUew&e=1599626125
+
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-4A3Y38MUYxE/X1fqWdU1vmI/AAAAAAAAAls/0frrCfWdfo8dRUM3uSILypKjlGmXZqbYQCNcBGAsYHQ/s0/HBO%2BFAMILY.png", HBO FAMILY
+https://ul.cdn946.net:8443/hls/ojp1z6ukt31d2p.m3u8?s=I1GWd_HFLAz2fX17ue0UgQ&e=1599626224
+
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-a1vrq-nSk94/X1fq6LdnVjI/AAAAAAAAAmI/RxOksii5FYoidkWbfuDOYgm12dmXyxavgCNcBGAsYHQ/s0/LAS%2BESTRELLAS.png", LAS ESTRELLAS
+https://ul.cdn946.net:8443/hls/jz03xor09emsvw.m3u8?s=41oANdOaasVR-5q0T38yrw&e=1599626317
+
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-jWFOlJRMC2o/X1fmPzoSqHI/AAAAAAAAAjA/IUZcQhZlM0cYdNXnxbp2xqosXq--TbeWACNcBGAsYHQ/s295/AZTECA%2B7.png", AZTECA 7
+https://ul.cdn946.net:8443/hls/uy2bun1ra.m3u8?s=CO5W-Rw9JylHJho_ZZzG1Q&e=1599626420
+
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-zJwDkBRkEQQ/X1fm3QJ6xMI/AAAAAAAAAjk/S7GHvL_XUUIijzVL9Fw8fotMYZV9IIX1QCNcBGAsYHQ/s295/CARACOL%2BTELEVICION.png", CARACOL TV
+https://telerium.tv/ingest02/65951.m3u8?sf=SGNmMWdaazg4NQ==&token=dRSaNeQo4G1milmIUGcwHg&expires=1599605150&rnd=65951
+
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-07j30mrjtxE/X1fmDgoakNI/AAAAAAAAAi8/zI_9pF2xHFk8snja_soyQjy13WyTKlc9wCNcBGAsYHQ/s0/ATECA%2BUNO.png", AZTECA UNO
+https://ul.cdn946.net:8443/hls/kvfmo5codeeps90.m3u8?s=Yvr2OZbNbFDvML97rQtSjg&e=1599626592
+
