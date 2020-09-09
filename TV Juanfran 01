@@ -2,10 +2,10 @@
 
 
 
-#EXTINF:-1, group-tltle="TV" tvg-logo="LOGO LOGO LOGO", Canal Once Mexico
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-MdNsF5gCs1I/X1fsadSN1EI/AAAAAAAAAnA/-3jvpYgrND8PRLBCen93g05ND4XGJbfJgCNcBGAsYHQ/s0/ONCE%2BTV.png", Canal Once Mexico
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1544849589_b1000000_slesp.m3u8
 
-#EXTINF:-1, group-tltle="TV" tvg-logo="LOGO LOGO LOGO", Telemax Sonora MéxicoL
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-jlxU5dLUF6I/X1lNoTiUBeI/AAAAAAAAApA/c1E46pBqUhUgHK5dQc3CMwljlwW_LS1dACNcBGAsYHQ/s0/Telemax%2BSonora%2BM%25C3%25A9xico.png", Telemax Sonora MéxicoL
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w1610852140.m3u8
 
 #EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-ayxpsHLmwjU/X1hZIsiCXvI/AAAAAAAAAoA/808V809clucQw3Ix8aWTfOeZ0xqhzUozwCNcBGAsYHQ/s0/CANAL%2B4.png", 4 MONCLOVA
