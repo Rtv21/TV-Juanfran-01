@@ -2,8 +2,11 @@
 
 
 
-#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-DfJQwQbFTJw/X1hZxGB9-qI/AAAAAAAAAoU/2xHPNW44zWgjQmZJDPuIO26JZ32ODR92gCNcBGAsYHQ/s0/HERALDO.png", Heraldo De Mexico 10.2
-https://stream-04.sv4.dailymotion.com/sec(flYDIS2TJc06LP-7DFS-yUT85a0GXVsX5Sp-GjveWvg)/dm/3/x792196/d/live-2.m3u8#cell=lsv4&qos_vpart=1&qos_stail=1
+#EXTINF:-1, group-tltle="TV" tvg-logo="LOGO LOGO LOGO", Canal Once Mexico
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1544849589_b1000000_slesp.m3u8
+
+#EXTINF:-1, group-tltle="TV" tvg-logo="LOGO LOGO LOGO", Telemax Sonora MéxicoL
+http://s5.mexside.net:1935/telemax/telemax/chunklist_w1610852140.m3u8
 
 #EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-ayxpsHLmwjU/X1hZIsiCXvI/AAAAAAAAAoA/808V809clucQw3Ix8aWTfOeZ0xqhzUozwCNcBGAsYHQ/s0/CANAL%2B4.png", 4 MONCLOVA
 http://162.241.190.126:1935/live/canal4/chunklist_w955381422.m3u8
