@@ -2,21 +2,28 @@
 
 
 
-#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-Dab-At78FW0/X1fnu1o_tWI/AAAAAAAAAkA/1ut7pTm985UpYL5CwGfSwYWVStWcbLTEwCNcBGAsYHQ/s0/DE%2BPELICULA.png", DE PELICULA
-https://ul.cdn946.net:8443/hls/4elfkzo3pugm9.m3u8?s=Pop4QRy_HeA49jcA_8WUew&e=1599626125
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-DfJQwQbFTJw/X1hZxGB9-qI/AAAAAAAAAoU/2xHPNW44zWgjQmZJDPuIO26JZ32ODR92gCNcBGAsYHQ/s0/HERALDO.png", Heraldo De Mexico 10.2
+https://stream-04.sv4.dailymotion.com/sec(flYDIS2TJc06LP-7DFS-yUT85a0GXVsX5Sp-GjveWvg)/dm/3/x792196/d/live-2.m3u8#cell=lsv4&qos_vpart=1&qos_stail=1
 
-#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-4A3Y38MUYxE/X1fqWdU1vmI/AAAAAAAAAls/0frrCfWdfo8dRUM3uSILypKjlGmXZqbYQCNcBGAsYHQ/s0/HBO%2BFAMILY.png", HBO FAMILY
-https://ul.cdn946.net:8443/hls/ojp1z6ukt31d2p.m3u8?s=I1GWd_HFLAz2fX17ue0UgQ&e=1599626224
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-ayxpsHLmwjU/X1hZIsiCXvI/AAAAAAAAAoA/808V809clucQw3Ix8aWTfOeZ0xqhzUozwCNcBGAsYHQ/s0/CANAL%2B4.png", 4 MONCLOVA
+http://162.241.190.126:1935/live/canal4/chunklist_w955381422.m3u8
 
-#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-a1vrq-nSk94/X1fq6LdnVjI/AAAAAAAAAmI/RxOksii5FYoidkWbfuDOYgm12dmXyxavgCNcBGAsYHQ/s0/LAS%2BESTRELLAS.png", LAS ESTRELLAS
-https://ul.cdn946.net:8443/hls/jz03xor09emsvw.m3u8?s=41oANdOaasVR-5q0T38yrw&e=1599626317
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-hUNMGAnAwuQ/X1hZ7qkcJyI/AAAAAAAAAoc/elasqI5vfd8wv7Gx5cydU7Rw_0IPo7vSgCNcBGAsYHQ/s0/TV%2B15%2BCoahuila.png", Canal TV 15 Coahuila
+http://live.gvstream.net:554/e-tv-video/play.stream/chunklist_w267097322.m3u8
 
-#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-jWFOlJRMC2o/X1fmPzoSqHI/AAAAAAAAAjA/IUZcQhZlM0cYdNXnxbp2xqosXq--TbeWACNcBGAsYHQ/s295/AZTECA%2B7.png", AZTECA 7
-https://ul.cdn946.net:8443/hls/uy2bun1ra.m3u8?s=CO5W-Rw9JylHJho_ZZzG1Q&e=1599626420
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-HPyBbg3Ow9k/X1hZXMOKz_I/AAAAAAAAAoE/6ODjEtsYpYs62fJVx9x1AWyj-O_apq91ACNcBGAsYHQ/s320/canal-7.png", Canal 7 TV Pacífico Mazatlan
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist_w1788938918_b1428000_sleng.m3u8
 
-#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-zJwDkBRkEQQ/X1fm3QJ6xMI/AAAAAAAAAjk/S7GHvL_XUUIijzVL9Fw8fotMYZV9IIX1QCNcBGAsYHQ/s295/CARACOL%2BTELEVICION.png", CARACOL TV
-https://telerium.tv/ingest02/65951.m3u8?sf=SGNmMWdaazg4NQ==&token=dRSaNeQo4G1milmIUGcwHg&expires=1599605150&rnd=65951
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-ZfNDISZ4aMk/X1hY3hYtVpI/AAAAAAAAAn4/WPCSPVcRBYQHWq-6BBzAjtPxFb2euGNiwCNcBGAsYHQ/s0/CALI%2BTV.png", Cali TV en directo Colombia
+http://vbox.cehis.net/live-calitv/calitv1/chunklist_w2138708061.m3u8
 
-#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-07j30mrjtxE/X1fmDgoakNI/AAAAAAAAAi8/zI_9pF2xHFk8snja_soyQjy13WyTKlc9wCNcBGAsYHQ/s0/ATECA%2BUNO.png", AZTECA UNO
-https://ul.cdn946.net:8443/hls/kvfmo5codeeps90.m3u8?s=Yvr2OZbNbFDvML97rQtSjg&e=1599626592
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-_lUfpWmnBkc/X1hZh00HhkI/AAAAAAAAAoM/gxzqtTVZiw4L2CDjAQfJgNXVGpkYoegZwCNcBGAsYHQ/s0/CTV%2BBARRANQUILLA.png", CTV Barranquilla Colombia
+http://wmoy8w6ky2a7-hls-live.5centscdn.com/ctvbaq/live/chunks.m3u8
+
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-2XjjjkGCmbI/X1hdhbDK4wI/AAAAAAAAAo0/aIY8r2rd0KIlcoPmDGLqgpqZDycw1zVoACNcBGAsYHQ/s0/EL%2BPINGUINO%2BTV%2BCHILE.png", El Pinguino TV Chile
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/chunklist_w1064292408.m3u8
+
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-jaDb9SUCNPg/X1haE8ToRnI/AAAAAAAAAok/HXERM3FWf9AJZ97hDGOYnVKWpBMqa8gygCNcBGAsYHQ/s0/TV%2BPERU.png", TV Perú
+http://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
+
 
