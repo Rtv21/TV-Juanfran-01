@@ -29,4 +29,11 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_360p/chunklist_w1064292408.
 #EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-jaDb9SUCNPg/X1haE8ToRnI/AAAAAAAAAok/HXERM3FWf9AJZ97hDGOYnVKWpBMqa8gygCNcBGAsYHQ/s0/TV%2BPERU.png", TV Perú
 http://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
 
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-GG9M6_pnS-U/X1pZYma4UnI/AAAAAAAAApY/Civx9XWubRg083HKvoj2E9_bIavMfu3fwCNcBGAsYHQ/s0/PUEBLA%2BTV.png", Puebla TV 
+http://189.240.210.28:1935/envivo/puecom/chunklist_w1833239649.m3u8
 
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-jWFOlJRMC2o/X1fmPzoSqHI/AAAAAAAAAjA/IUZcQhZlM0cYdNXnxbp2xqosXq--TbeWACNcBGAsYHQ/s295/AZTECA%2B7.png", Azteca 7
+https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/9be60d70-00f9-4a96-998b-7c3efaf2575f:GRQ/variant/4bd7eea89dd8ee18aa04d1ec2a40069e/bandwidth/779900.m3u8
+
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-KR0L_6Hvdqg/X1ftJHboBKI/AAAAAAAAAnk/1F_za7zcikgJpSZ4mpUWzatxTcnykFoEwCNcBGAsYHQ/s0/UNIVERSAL%2BCHANNEL.png", Universal TV
+https://ul.cdn946.net:8443/hls/p3ii4md9.m3u8?s=MfJiAHQJsgHNS4RKTVftiA&e=1599777664
