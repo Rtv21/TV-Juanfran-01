@@ -5,10 +5,10 @@
 #EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-MdNsF5gCs1I/X1fsadSN1EI/AAAAAAAAAnA/-3jvpYgrND8PRLBCen93g05ND4XGJbfJgCNcBGAsYHQ/s0/ONCE%2BTV.png", Canal Once Mexico
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1544849589_b1000000_slesp.m3u8
 
-#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-jlxU5dLUF6I/X1lNoTiUBeI/AAAAAAAAApA/c1E46pBqUhUgHK5dQc3CMwljlwW_LS1dACNcBGAsYHQ/s0/Telemax%2BSonora%2BM%25C3%25A9xico.png", Telemax Sonora MéxicoL
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-jlxU5dLUF6I/X1lNoTiUBeI/AAAAAAAAApA/c1E46pBqUhUgHK5dQc3CMwljlwW_LS1dACNcBGAsYHQ/s0/Telemax%2BSonora%2BM%25C3%25A9xico.png", Telemax Sonora México
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w1610852140.m3u8
 
-#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-ayxpsHLmwjU/X1hZIsiCXvI/AAAAAAAAAoA/808V809clucQw3Ix8aWTfOeZ0xqhzUozwCNcBGAsYHQ/s0/CANAL%2B4.png", 4 MONCLOVA
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-ayxpsHLmwjU/X1hZIsiCXvI/AAAAAAAAAoA/808V809clucQw3Ix8aWTfOeZ0xqhzUozwCNcBGAsYHQ/s0/CANAL%2B4.png", 4 Monclova
 http://162.241.190.126:1935/live/canal4/chunklist_w955381422.m3u8
 
 #EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-hUNMGAnAwuQ/X1hZ7qkcJyI/AAAAAAAAAoc/elasqI5vfd8wv7Gx5cydU7Rw_0IPo7vSgCNcBGAsYHQ/s0/TV%2B15%2BCoahuila.png", Canal TV 15 Coahuila
@@ -35,5 +35,5 @@ http://189.240.210.28:1935/envivo/puecom/chunklist_w1833239649.m3u8
 #EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-jWFOlJRMC2o/X1fmPzoSqHI/AAAAAAAAAjA/IUZcQhZlM0cYdNXnxbp2xqosXq--TbeWACNcBGAsYHQ/s295/AZTECA%2B7.png", Azteca 7
 https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/9be60d70-00f9-4a96-998b-7c3efaf2575f:GRQ/variant/4bd7eea89dd8ee18aa04d1ec2a40069e/bandwidth/779900.m3u8
 
-#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-KR0L_6Hvdqg/X1ftJHboBKI/AAAAAAAAAnk/1F_za7zcikgJpSZ4mpUWzatxTcnykFoEwCNcBGAsYHQ/s0/UNIVERSAL%2BCHANNEL.png", Universal TV
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-KR0L_6Hvdqg/X1ftJHboBKI/AAAAAAAAAnk/1F_za7zcikgJpSZ4mpUWzatxTcnykFoEwCNcBGAsYHQ/s0/UNIVERSAL%2BCHANNEL.png", Universal Channel
 https://ul.cdn946.net:8443/hls/p3ii4md9.m3u8?s=MfJiAHQJsgHNS4RKTVftiA&e=1599777664
