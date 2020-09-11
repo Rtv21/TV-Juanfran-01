@@ -32,8 +32,20 @@ http://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-GG9M6_pnS-U/X1pZYma4UnI/AAAAAAAAApY/Civx9XWubRg083HKvoj2E9_bIavMfu3fwCNcBGAsYHQ/s0/PUEBLA%2BTV.png", Puebla TV 
 http://189.240.210.28:1935/envivo/puecom/chunklist_w1833239649.m3u8
 
-#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-jWFOlJRMC2o/X1fmPzoSqHI/AAAAAAAAAjA/IUZcQhZlM0cYdNXnxbp2xqosXq--TbeWACNcBGAsYHQ/s295/AZTECA%2B7.png", Azteca 7
-https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/9be60d70-00f9-4a96-998b-7c3efaf2575f:GRQ/variant/4bd7eea89dd8ee18aa04d1ec2a40069e/bandwidth/779900.m3u8
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-v-8XKudN4hI/X1ulepy5n2I/AAAAAAAAAqc/MlCbwMvFXTsTtegKte9W_0FltwFUZlQrQCNcBGAsYHQ/s0/TM%2BTV%2BMexico.png", TM TV Transmedia Mexico
+http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w667921365.m3u8
 
-#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-KR0L_6Hvdqg/X1ftJHboBKI/AAAAAAAAAnk/1F_za7zcikgJpSZ4mpUWzatxTcnykFoEwCNcBGAsYHQ/s0/UNIVERSAL%2BCHANNEL.png", Universal Channel
-https://ul.cdn946.net:8443/hls/p3ii4md9.m3u8?s=MfJiAHQJsgHNS4RKTVftiA&e=1599777664
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-oYN7N5174YA/X1ukV1IiQ5I/AAAAAAAAApw/K3PBzSuMTtUFlnqalDhUMYBPgsE8fVd4wCNcBGAsYHQ/s0/10%2BMar%2BDe%2BPlata%2BArgentina.png", Canal 10 Mar de Plata Argentina
+https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10/chunks.m3u8?nimblesessionid=6500811
+
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-FUPNwu7jkQo/X1uk6Ye_M9I/AAAAAAAAAqE/Rs2RWToy_KgMMWXwWxkQVN0TrQNeYOC8QCNcBGAsYHQ/s0/CH%2BTV%2BArggentina.png", Chaco TV Argentina
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w354877432.m3u8
+
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-FX1KD3v5TWM/X1uknA-W5VI/AAAAAAAAAp4/EohJbKjg9uI9vPn6Y19nyFIJpfob1ZxYQCNcBGAsYHQ/s0/13%2BArgentina.png", 13 Max TV Corrientes Argentina
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w196375468.m3u8
+
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-JuLDht_CE4U/X1ukya-wWbI/AAAAAAAAAp8/JrVzF3eUxvE1D_54lI1wIsGVcEuj8mpmACNcBGAsYHQ/s0/Canal%2B21%2BChill%25C3%25A1n%2BChile.png", Canal 21 Chillán Chile
+https://tls.cdnz.cl/canal21tv/live/chunklist_w1287940179.m3u8
+
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://1.bp.blogspot.com/-J9fKVKfMmqE/X1ulMg-K2yI/AAAAAAAAAqQ/lvJuEIcszaQgkTnmQA9jT7MDjKFMqU78wCNcBGAsYHQ/s0/Si%2BTV%2BHonduras.png", Si TV Honduras
+http://st2.worldkast.com/8030/8030/chunklist_w130126264.m3u8
